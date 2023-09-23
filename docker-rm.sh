@@ -1,0 +1,1 @@
+docker rm apache2-php && docker image rm apache2-php
